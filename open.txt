@@ -1,3 +1,4 @@
-Este é o conteúdo do curso.
+﻿Este é o conteúdo do curso.
 Editando arquivo para testar a utilização do conceito de "fork" e "pullRequest".
 Testando colaboração via branch
+Adicionando mais uma linha
