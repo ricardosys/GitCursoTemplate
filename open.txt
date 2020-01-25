@@ -5,3 +5,4 @@ Adicionando mais uma linha
 editando no gitHub
 rsena.carvalho@gmail.com
 ricardo.sys@gmail.com
+teste@gmail.com
