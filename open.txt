@@ -2,3 +2,4 @@
 Editando arquivo para testar a utilização do conceito de "fork" e "pullRequest".
 Testando colaboração via branch
 Adicionando mais uma linha
+editando no gitHub
